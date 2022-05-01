@@ -1,3 +1,28 @@
 body {
-brackground-color "black"
+    background-color: #161b22
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 50px;
+    color: cadetblue
+}
+
+h2 {
+    font-family: arial;
+}
+
+p {
+    font-family: arial;
+    font-size: 17
+}
+
+section {
+    display flex;
+}
+
+article {
+    padding: 5px;
+    margin: 15px;
+    background: cadetblue;
 }
